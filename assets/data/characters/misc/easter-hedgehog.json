@@ -1,0 +1,32 @@
+{
+    "name": { "en_EN" : "CargoCrew3", "de_DE" : "CargoCrew3"},
+    "animSheet" : "npc.easter-hedgehog",
+    "size" : {"x": 24, "y": 24, "z": 24},
+    "walkAnimSet" : {
+        "normal" : {
+            "idle": "idle",
+            "move": "move"
+        }
+    },
+    "walkAnims": "normal",
+    "configs" : {
+        "normal" : {
+            "relativeVel": 0.5
+        }
+    },
+    "face": {
+        "src": "easter-hedgehog.png",
+        "width": 128,
+        "height": 120,
+        "centerX" : 40,
+        "centerY": 76,
+        "parts": [
+            {
+                "straight": {"srcX": 0, "srcY": 0, "width": 128, "height": 120, "destX": 20, "destY": 0 }
+            }
+        ],
+        "expressions": {
+            "DEFAULT": { "faces":  [[ "straight"]] }
+        }
+    }
+}

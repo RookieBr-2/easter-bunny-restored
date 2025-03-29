@@ -1,0 +1,6 @@
+{
+    "name": "restored-easter-bunny",
+    "ccmodHumanName": "The Return of the Bunny",
+    "version": "0.1.5-Easter",
+    "prestart": "prestart.js"
+  }

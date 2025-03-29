@@ -1,0 +1,91 @@
+{
+    "helping-the-returning-bunny": {
+            "name": {
+                "en_US": "Lost Eggs in Atumn's Rise",
+                "de_DE": "Lost Eggs in Atumn's Rise",
+                "zh_CN": "Lost Eggs in Atumn's Rise",
+                "zh_TW": "Lost Eggs in Atumn's Rise",
+                "ja_JP": "Lost Eggs in Atumn's Rise",
+                "ko_KR": "Lost Eggs in Atumn's Rise",
+                "langUid": 5695
+            },
+            "person": {
+                "en_US": "'Easter' Bunny",
+                "de_DE": "'Easter' Bunny",
+                "zh_CN": "'Easter' Bunny",
+                "zh_TW": "'Easter' Bunny",
+                "ja_JP": "'Easter' Bunny",
+                "ko_KR": "'Easter' Bunny",
+                "langUid": 5696
+            },
+            "level": 5,
+            "order": 202,
+            "description": {
+                "en_US": "The 'Easter' Bunny from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
+                "de_DE": "The 'Easter' Bunny from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
+                "zh_CN": "The 'Easter' Bunny from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
+                "zh_TW": "The 'Easter' Bunny from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
+                "ja_JP": "The 'Easter' Bunny from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
+                "ko_KR": "The 'Easter' Bunny from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
+                "langUid": 5698
+            },
+            "briefing": {
+                "en_US": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter Bunny.",
+                "de_DE": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter Bunny.",
+                "zh_CN": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter Bunny.",
+                "zh_TW": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter Bunny.",
+                "ja_JP": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter Bunny.",
+                "ko_KR": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter Bunny.",
+                "langUid": 5699
+            },
+            "hideRewards": false,
+            "tasks": [
+                {
+                    "task": {
+                        "en_US": "Find the lost \\c[3]Easter Eggs\\c[0] in Autumn's Rise!",
+                        "de_DE": "Find the lost \\c[3]Easter Eggs\\c[0] in Autumn's Rise!",
+                        "fr_FR": "Find the lost \\c[3]Easter Eggs\\c[0] in Autumn's Rise!",
+                        "langUid": 5773,
+                        "zh_CN": "Find the lost \\c[3]Easter Eggs\\c[0] in Autumn's Rise!",
+                        "ja_JP": "Find the lost \\c[3]Easter Eggs\\c[0] in Autumn's Rise!",
+                        "ko_KR": "Find the lost \\c[3]Easter Eggs\\c[0] in Autumn's Rise!",
+                        "zh_TW": "Find the lost \\c[3]Easter Eggs\\c[0] in Autumn's Rise!"
+                    },
+                    "subtasks": [
+                        {
+                            "item": "item-easter-egg",
+                            "amount": 6,
+                            "keepItems": false,
+                            "type": "COLLECT"
+                        }
+                    ]
+                },
+                {
+                    "task": {
+                        "en_US": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny.",
+                        "de_DE": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny.",
+                        "fr_FR": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny.",
+                        "langUid": 5774,
+                        "zh_CN": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny.",
+                        "ja_JP": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny.",
+                        "ko_KR": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny.",
+                        "zh_TW": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny."
+                    },
+                    "subtasks": [
+                        {
+                            "label": "done",
+                            "type": "CONDITION"
+                        }
+                    ]
+                }
+            ],
+            "area": "autumn",
+            "rewards": {
+                "exp": {
+                    "exp": 90,
+                    "bonus": 0
+                },
+                "money": 120
+            }
+        }
+}

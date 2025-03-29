@@ -1,0 +1,21 @@
+{
+    "DOCTYPE" : "MULTI_DIR_ANIMATION",
+    "namedSheets" : {
+        "egg" : { "src": "media/entity/npc/egg.png", "width": 16, "height": 16, "xCount": 3 }
+    },
+    "shapeType" : "Y_FLAT",
+
+    "SUB": [
+        {
+          "sheet" : "egg",
+          "dirs" : 1,
+          "tileOffsets": [0],
+          "flipX": [0],
+          "SUB": [
+            { "name" : "egg1", "time" : 0.1, "repeat" : true, "frames" : [0,0,0,0,0,0,0,0,3,6,9] },
+            { "name" : "egg2", "time" : 0.1, "repeat" : true, "frames" : [1,1,1,1,1,1,1,1,4,7,10] },
+            { "name" : "egg3", "time" : 0.1, "repeat" : true, "frames" : [2,2,2,2,2,2,2,2,5,8,11] }
+          ]
+        }
+    ]
+}

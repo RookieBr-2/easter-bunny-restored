@@ -1,0 +1,22 @@
+{
+    "name": { "en_EN" : "CargoCrew3", "de_DE" : "CargoCrew3"},
+    "animSheet" : "npc.eggs",
+    "size" : {"x": 12, "y": 12, "z": 4},
+    "walkAnimSet" : {
+        "egg1" : { "idle": "egg1"},
+        "egg2" : { "idle": "egg2"},
+        "egg3" : { "idle": "egg3"}
+    },
+    "walkAnims": "egg1",
+    "configs" : {
+        "egg1" : {
+            "walkAnims": "egg1"
+        },
+        "egg2" : {
+            "walkAnims": "egg2"
+        },
+        "egg3" : {
+            "walkAnims": "egg3"
+        }
+    }
+}

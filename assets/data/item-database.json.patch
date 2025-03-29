@@ -1,0 +1,33 @@
+[
+  {
+    "type": "ENTER",
+    "index": "items"
+  },
+  {
+    "type": "ADD_ARRAY_ELEMENT",
+    "content": {
+    "order": 1988,
+    "customItem": "item-easter-egg",
+      "order": 1988,
+      "name": {
+        "en_US": "Easter Egg",
+        "de_DE": "Name"
+      },
+      "description": {
+        "en_US": "An easter egg. Quite colorful.",
+        "de_DE": "Description."
+      },
+      "type": "KEY",
+      "rarity": 0,
+      "level": 1,
+      "icon": "item-key",
+      "effect": {
+        "sheet": "",
+        "name": null
+      }
+    }
+     },
+  {
+    "type": "EXIT"
+  }
+]
