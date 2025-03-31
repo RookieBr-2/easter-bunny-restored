@@ -10,32 +10,32 @@
                 "langUid": 5695
             },
             "person": {
-                "en_US": "'Easter' Bunny",
-                "de_DE": "'Easter' Bunny",
-                "zh_CN": "'Easter' Bunny",
-                "zh_TW": "'Easter' Bunny",
-                "ja_JP": "'Easter' Bunny",
-                "ko_KR": "'Easter' Bunny",
+                "en_US": "Easter 'Bunny'",
+                "de_DE": "Easter 'Bunny'",
+                "zh_CN": "Easter 'Bunny'",
+                "zh_TW": "Easter 'Bunny'",
+                "ja_JP": "Easter 'Bunny'",
+                "ko_KR": "Easter 'Bunny'",
                 "langUid": 5696
             },
             "level": 5,
             "order": 202,
             "description": {
-                "en_US": "The 'Easter' Bunny from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
-                "de_DE": "The 'Easter' Bunny from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
-                "zh_CN": "The 'Easter' Bunny from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
-                "zh_TW": "The 'Easter' Bunny from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
-                "ja_JP": "The 'Easter' Bunny from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
-                "ko_KR": "The 'Easter' Bunny from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
+                "en_US": "The Easter 'Bunny' from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
+                "de_DE": "The Easter 'Bunny' from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
+                "zh_CN": "The Easter 'Bunny' from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
+                "zh_TW": "The Easter 'Bunny' from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
+                "ja_JP": "The Easter 'Bunny' from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
+                "ko_KR": "The Easter 'Bunny' from 2015 returned and lost his \\c[3]Easter Eggs\\c[0] again.",
                 "langUid": 5698
             },
             "briefing": {
-                "en_US": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter Bunny.",
-                "de_DE": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter Bunny.",
-                "zh_CN": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter Bunny.",
-                "zh_TW": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter Bunny.",
-                "ja_JP": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter Bunny.",
-                "ko_KR": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter Bunny.",
+                "en_US": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter 'Bunny'.",
+                "de_DE": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter 'Bunny'.",
+                "zh_CN": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter 'Bunny'.",
+                "zh_TW": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter 'Bunny'.",
+                "ja_JP": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter 'Bunny'.",
+                "ko_KR": "You have returned the \\c[3]Easter Eggs\\c[0] for the Easter 'Bunny'.",
                 "langUid": 5699
             },
             "hideRewards": false,
@@ -62,14 +62,14 @@
                 },
                 {
                     "task": {
-                        "en_US": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny.",
-                        "de_DE": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny.",
-                        "fr_FR": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny.",
+                        "en_US": "Return the \\c[3]Easter Eggs\\c[0] to the Easter 'Bunny'.",
+                        "de_DE": "Return the \\c[3]Easter Eggs\\c[0] to the Easter 'Bunny'.",
+                        "fr_FR": "Return the \\c[3]Easter Eggs\\c[0] to the Easter 'Bunny'.",
                         "langUid": 5774,
-                        "zh_CN": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny.",
-                        "ja_JP": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny.",
-                        "ko_KR": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny.",
-                        "zh_TW": "Return the \\c[3]Easter Eggs\\c[0] to the Easter Bunny."
+                        "zh_CN": "Return the \\c[3]Easter Eggs\\c[0] to the Easter 'Bunny'.",
+                        "ja_JP": "Return the \\c[3]Easter Eggs\\c[0] to the Easter 'Bunny'.",
+                        "ko_KR": "Return the \\c[3]Easter Eggs\\c[0] to the Easter 'Bunny'.",
+                        "zh_TW": "Return the \\c[3]Easter Eggs\\c[0] to the Easter 'Bunny'."
                     },
                     "subtasks": [
                         {

@@ -1,14 +1,14 @@
 {
     "id": "restored-easter-bunny",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "title": {
-        "en_US": "Return of the Easter Bunny",
-        "de_DE": "Return of the Easter Bunny",
-        "fr_FR": "Return of the Easter Bunny",
-        "zh_CN": "Return of the Easter Bunny",
-        "zh_TW": "Return of the Easter Bunny",
-        "ja_JP": "Return of the Easter Bunny",
-        "ko_KR": "Return of the Easter Bunny"
+        "en_US": "Return of the Easter Bunny (V0.1.5-Easter)",
+        "de_DE": "Return of the Easter Bunny (V0.1.5-Easter)",
+        "fr_FR": "Return of the Easter Bunny (V0.1.5-Easter)",
+        "zh_CN": "Return of the Easter Bunny (V0.1.5-Easter)",
+        "zh_TW": "Return of the Easter Bunny (V0.1.5-Easter)",
+        "ja_JP": "Return of the Easter Bunny (V0.1.5-Easter)",
+        "ko_KR": "Return of the Easter Bunny (V0.1.5-Easter)"
     },
     "description": {
         "en_US": "Makes the removed Easter Bunny from an old version return!",
